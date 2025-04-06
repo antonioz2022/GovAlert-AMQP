@@ -123,6 +123,12 @@ As filas dos consumidores são temporárias e autoexcluídas ao encerrar o progr
 
 A auditoria funciona como um consumidor especial com assinatura em avisos.#.
 
+## Membros do grupo:
+
+  - **Antônio Albuquerquw** -
+  - **João Augusto** - 
+  - **Julia Boto** - 
+  - **Leonardo Mello** - [ljam2@cesar.school](mailto:ljam2@cesar.school)
 
 
 
