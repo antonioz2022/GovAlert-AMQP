@@ -100,7 +100,7 @@ Resultado esperado:
 [x] Mensagem enviada para o tópico 'avisos.emergencia'
 ```
 
-##🎯 Funcionalidades
+## 🎯 Funcionalidades
 -✅ Suporte a múltiplos produtores
 -✅ Suporte a múltiplos consumidores simultâneos
 -✅ Auditoria recebe tudo (usando wildcard avisos.#)
