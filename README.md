@@ -50,15 +50,19 @@ Escolha o tipo de usuário:
 ```
 
 1 - Consumidor: será solicitado que você escolha quais mensagens quer receber:
+```bash
 Selecione os tópicos:
 1 - Avisos Gerais do Governo do Recife
 2 - Comunicados de Emergência
 3 - Receber ambos os tipos
+```
 
 2 - Auditoria: você receberá todas as mensagens, independente do tópico.
 
 Resultado esperado (exemplo):
+```bash
 [06/04/2025 - 14:21] avisos.gerais : Feriado municipal nesta segunda-feira.
+```
 
 📨 2. Enviar Mensagens com o Produtor (Python)
 Pré-requisitos:
@@ -66,26 +70,35 @@ Pré-requisitos:
 Python 3.x
 
 Instalar dependência:
+```bash
 pip install pika
+```
 
 Passos:
+```bash
 cd produtor-py
 python produtor.py
+```
 
 Durante a execução, o programa perguntará:
 
 Etapa 1 - Escolha do tópico:
-
+```bash
 Escolha o tópico para enviar a mensagem:
 1 - avisos.gerais
 2 - avisos.emergencia
+```
 
 Etapa 2 - Digite a mensagem:
+```bash
 Digite a mensagem para enviar:
 > Alerta de enchente no Bairro do Recife.
+```
 
 Resultado esperado:
+```bash
 [x] Mensagem enviada para o tópico 'avisos.emergencia'
+```
 
 🎯 Funcionalidades
 ✅ Suporte a múltiplos produtores
@@ -95,9 +108,13 @@ Resultado esperado:
 ✅ Configurável via terminal – sem interface gráfica necessária
 
 🗂 Exemplo de Estrutura de Mensagem
+```bash
 [dd/MM/yyyy - HH:mm] nome_tópico : corpo_da_mensagem
+```
 Exemplo:
+```bash
 [06/04/2025 - 16:35] avisos.emergencia : Evacuação preventiva no bairro da Várzea.
+```
 
 📎 Observações Técnicas
 O sistema utiliza o tipo de Exchange topic.
