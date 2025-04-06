@@ -39,7 +39,7 @@ Este projeto simula um sistema de comunicação oficial do Governo do Recife, pe
 ```bash
 cd consumidor-java
 ./mvnw spring-boot:run
-
+```
 Durante a execução, o programa perguntará:
 
 Etapa 1 - Escolha do tipo de usuário:
@@ -47,6 +47,7 @@ Etapa 1 - Escolha do tipo de usuário:
 Escolha o tipo de usuário:
 1 - Consumidor
 2 - Auditoria
+```
 
 1 - Consumidor: será solicitado que você escolha quais mensagens quer receber:
 Selecione os tópicos:
