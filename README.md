@@ -125,7 +125,7 @@ A auditoria funciona como um consumidor especial com assinatura em avisos.#.
 
 ## Membros do grupo:
 
-  - **Antônio Albuquerquw** -
+  - **Antônio Albuquerque** -
   - **João Augusto** - 
   - **Julia Boto** - 
   - **Leonardo Mello** - [ljam2@cesar.school](mailto:ljam2@cesar.school)
