@@ -115,11 +115,9 @@ Exemplo:
 ```
 
 ## 📎 Observações Técnicas
-O sistema utiliza o tipo de Exchange topic.
-
-As filas dos consumidores são temporárias e autoexcluídas ao encerrar o programa.
-
-A auditoria funciona como um consumidor especial com assinatura em avisos.#.
+- O sistema utiliza o tipo de Exchange topic.
+- As filas dos consumidores são temporárias e autoexcluídas ao encerrar o programa.
+- A auditoria funciona como um consumidor especial com assinatura em avisos.#.
 
 ## Membros do grupo:
 
