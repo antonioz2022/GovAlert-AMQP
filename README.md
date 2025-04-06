@@ -105,7 +105,7 @@ Resultado esperado:
 - ✅ Fila exclusiva e temporária para cada instância de consumidor
 - ✅ Configurável via terminal – sem interface gráfica necessária
 
-🗂 Exemplo de Estrutura de Mensagem
+## 🗂 Exemplo de Estrutura de Mensagem
 ```bash
 [dd/MM/yyyy - HH:mm] nome_tópico : corpo_da_mensagem
 ```
@@ -114,7 +114,7 @@ Exemplo:
 [06/04/2025 - 16:35] avisos.emergencia : Evacuação preventiva no bairro da Várzea.
 ```
 
-📎 Observações Técnicas
+## 📎 Observações Técnicas
 O sistema utiliza o tipo de Exchange topic.
 
 As filas dos consumidores são temporárias e autoexcluídas ao encerrar o programa.
