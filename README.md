@@ -1,5 +1,3 @@
-# GovAlert-AMQP
-
 # 📢 Sistema de Alerta Governamental
 
 Este projeto simula um sistema de comunicação oficial do Governo do Recife, permitindo o **envio e recebimento de mensagens públicas em tempo real** via RabbitMQ. Os usuários podem atuar como **produtores de alertas**, **consumidores (cidadãos)** ou **auditores (para fiscalização e transparência)**.
