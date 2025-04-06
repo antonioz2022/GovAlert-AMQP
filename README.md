@@ -100,12 +100,12 @@ Resultado esperado:
 [x] Mensagem enviada para o tópico 'avisos.emergencia'
 ```
 
-🎯 Funcionalidades
-✅ Suporte a múltiplos produtores
-✅ Suporte a múltiplos consumidores simultâneos
-✅ Auditoria recebe tudo (usando wildcard avisos.#)
-✅ Fila exclusiva e temporária para cada instância de consumidor
-✅ Configurável via terminal – sem interface gráfica necessária
+##🎯 Funcionalidades
+-✅ Suporte a múltiplos produtores
+-✅ Suporte a múltiplos consumidores simultâneos
+-✅ Auditoria recebe tudo (usando wildcard avisos.#)
+-✅ Fila exclusiva e temporária para cada instância de consumidor
+-✅ Configurável via terminal – sem interface gráfica necessária
 
 🗂 Exemplo de Estrutura de Mensagem
 ```bash
