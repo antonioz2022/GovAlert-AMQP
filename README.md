@@ -122,7 +122,8 @@ Exemplo:
 ## Membros do grupo:
 
   - **Antônio Albuquerque** -[aaon@cesar.school](mailto:aaon@cesar.school)
-  - **João Augusto** - 
+  - **João Augusto** -
+[japm@cesar.school]
   - **Julia Boto** - 
   - **Leonardo Mello** - [ljam2@cesar.school](mailto:ljam2@cesar.school)
 
