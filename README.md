@@ -74,8 +74,8 @@ pip install pika
 
 Passos:
 ```bash
-cd produtor-py
-python produtor.py
+cd produtor
+python publish.py
 ```
 
 Durante a execução, o programa perguntará:
